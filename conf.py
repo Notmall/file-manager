@@ -1,0 +1,1 @@
+main_folder = r'C:\Users\charley\Desktop\filemanager'
